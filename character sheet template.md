@@ -1,21 +1,5 @@
----
-Series: 
-aliases: 
-Race:
-  - Elf
-Origin: 
-Ethnicity: 
-Languages: 
-Organization: 
-Occupation: 
-tags:
-  - tos/ayen-torric
-  - character/base
-  - character/main
----
-
 > [!infobox]
-> ![[princeayen.png]]
+> ![[image url here]]
 >  ###### Profile 
 >   |  | 
 >  ---|---| 
